@@ -7,7 +7,7 @@ class Solution {
         for(int i=0; i<=8; i++){
             for (int j = 0; j <= 8; j++) {
                 char boardActVal = board[i][j];
-                if(boardActVal != '.'){ // is a number
+                if(boardActVal != '.'){
                     actVal = Character.getNumericValue(boardActVal) - 1; // represent with numb 0-8 instead of 1-9
                     boxRow = i / 3;
                     boxCol = j / 3;
