@@ -20,7 +20,7 @@ class Solution {
             }
         }
 
-        return Math.max(lenLongSubStr, maxLenLongSubStr); // compare also the last part of the String
+        return Math.max(lenLongSubStr, maxLenLongSubStr); // compare also the last part of the string
 
     }
 }
