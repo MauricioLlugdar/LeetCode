@@ -8,7 +8,6 @@ class Solution {
         }
         while(x>0){
             count++;
-            System.out.println("NOENTRA");
             actNum = x % 10;
             x= x/10;
             resNum = actNum + 10*resNum;
