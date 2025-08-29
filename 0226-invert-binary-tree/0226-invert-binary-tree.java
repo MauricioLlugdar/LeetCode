@@ -14,17 +14,13 @@
  * }
  */
 class Solution {
-    
-    private TreeNode copyTreeNode(TreeNode original){
-        if(original == null) return null;
-        TreeNode copy = new TreeNode(original.val);
-        copy.right = copyTreeNode(original.left);
-        copy.left = copyTreeNode(original.right);
-
-        return copy;
-    }
 
     public TreeNode invertTree(TreeNode root) {
-        return copyTreeNode(root);
+        if(root == null) return null;
+        TreeNode copy = new TreeNode(root.val);
+        copy.right = invertTree(root.left);
+        copy.left = invertTree(root.right);
+
+        return copy;
     }
 }
