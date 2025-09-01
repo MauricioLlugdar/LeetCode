@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MauricioLlugdar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MauricioLlugdar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MauricioLlugdar/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/MauricioLlugdar/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MauricioLlugdar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/MauricioLlugdar/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/MauricioLlugdar/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/MauricioLlugdar/LeetCode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/MauricioLlugdar/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0392-is-subsequence](https://github.com/MauricioLlugdar/LeetCode/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
